@@ -1,0 +1,14 @@
+uuid: 8ffc3910-39b6-4e02-950c-d8e5fa1ae81b
+name: Drupal
+mail: nsinha624@outlook.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
